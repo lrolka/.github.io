@@ -1,8 +1,8 @@
 body {
     background-color: cadetblue;
     font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    /*flex-wrap: wrap;*/
+    /*display: flex;
+    flex-wrap: wrap;*/
     }
     h1: {
     color: darkslateblue;
@@ -11,7 +11,7 @@ body {
     /*display: block;*/
     }
     .assign {
-    display: flex;
+    /*display: flex;*/
     padding: 10px;
     margin: 10px;
     background-color: darkgray;
